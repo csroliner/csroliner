@@ -1,6 +1,7 @@
 ## Olá👋
 
  Meu nome é Caroline
+ <p> </p>
  Aluna no SENAC Largo Treze no curso de Técnico de Informática, atualmente na UC09.
 
  Estou aqui depois me interessar pela area de técnologia e procuro desenvolver meus conhecimentos e me tornar uma boa profissional na area.
