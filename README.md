@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá👋
+
+ Meu nome é Caroline
+ Aluna no SENAC Largo Treze no curso de Técnico de Informática, atualmente na UC09.
+
+ Estou aqui depois me interessar pela area de técnologia e procuro desenvolver meus conhecimentos e me tornar uma boa profissional na area.
+ Busco o melhor de mim na area para futuramente ingressar em uma boa e grande empresa, onde eu possa ser recompensada por todo o meu esforço.
+
+- 🌱 Atualmente estou aprendendo HTML
+- 🤔 Busco por ajuda para trocar ideias e também compartilhar meus conhecimentos.
+- ⚡ Fato curioso: Gosto de jogar video-game e escutar musica.
 
 <!--
-**csroliner/csroliner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
